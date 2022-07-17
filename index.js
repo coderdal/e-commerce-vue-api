@@ -8,7 +8,7 @@ const data = require("./data.js");
 
 server.use(
   cors({
-    origin: "https://e-commerce-vue-erdal.netlify.app/",
+    origin: "https://e-commerce-vue-erdal.netlify.app",
   })
 );
 
